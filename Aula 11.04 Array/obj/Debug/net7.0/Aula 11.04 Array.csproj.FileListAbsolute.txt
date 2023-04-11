@@ -1,0 +1,15 @@
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.csproj.AssemblyReference.cache
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.AssemblyInfoInputs.cache
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.AssemblyInfo.cs
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.csproj.CoreCompileInputs.cache
+C:\Users\1185849874\Desktop\Aula 11.04 Array\bin\Debug\net7.0\Aula 11.04 Array.exe
+C:\Users\1185849874\Desktop\Aula 11.04 Array\bin\Debug\net7.0\Aula 11.04 Array.deps.json
+C:\Users\1185849874\Desktop\Aula 11.04 Array\bin\Debug\net7.0\Aula 11.04 Array.runtimeconfig.json
+C:\Users\1185849874\Desktop\Aula 11.04 Array\bin\Debug\net7.0\Aula 11.04 Array.dll
+C:\Users\1185849874\Desktop\Aula 11.04 Array\bin\Debug\net7.0\Aula 11.04 Array.pdb
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.dll
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\refint\Aula 11.04 Array.dll
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.pdb
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\Aula 11.04 Array.genruntimeconfig.cache
+C:\Users\1185849874\Desktop\Aula 11.04 Array\obj\Debug\net7.0\ref\Aula 11.04 Array.dll
